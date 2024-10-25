@@ -27,7 +27,7 @@ para crear listas de manera de viñeta es poniendo un - antes de la palabra
 - Cuarta cosa 
 
 para subir una foto debemos subirlo al repositorio y del repositorio a esto
-![foto linux](fotolinux-1.png)
+![foto linux](./fotolinux.png)
 
 para poder subir un enlace es poner un nombre entre [] y la url de la pagina entre parentesis
 [coches.net](https://www.coches.net/).
