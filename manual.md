@@ -31,6 +31,7 @@ para subir una foto debemos subirlo al repositorio y del repositorio a esto
 ![foto linux](./fotolinux.png)
 
 para poder subir un enlace es poner un nombre entre [] y la url de la pagina entre parentesis
+
 [coches.net](https://www.coches.net/).
 
 para crear una cita tienes que poner > y luego escribrirlo
